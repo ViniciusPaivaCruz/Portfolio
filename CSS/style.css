@@ -65,7 +65,7 @@ body{
     width: 200px;
     height: 200px;
     background-color: rgb(219, 219, 219);
-    background-image: url("/imagens/avatar.png");
+    background-image: url("/Portfolio/imagens/avatar.png");
     background-size: cover;
     background-position: center -10px;
     border: #077ebe 5px solid;
@@ -260,7 +260,7 @@ li a:hover{
 .Project{
     width: 450px;
     height: 147px;
-    background-image: url('/imagens/agencia_bold.png');
+    background-image: url('imagens/agencia_bold.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -270,7 +270,7 @@ li a:hover{
 .Project2{
     width: 450px;
     height: 147px;
-    background-image: url('/imagens/formulario_danki.png');
+    background-image: url('imagens/formulario_danki.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -280,7 +280,7 @@ li a:hover{
 .Project3{
     width: 450px;
     height: 147px;
-    background-image: url('/imagens/sindo_comercio.png');
+    background-image: url('imagens/sindo_comercio.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
